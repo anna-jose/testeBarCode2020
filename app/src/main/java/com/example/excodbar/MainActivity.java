@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
     private void lerCodigos(){
         btLeitura = (Button)findViewById(R.id.btnLeitura);
         edLeitura = (EditText)findViewById(R.id.edtLeitura);
-
+        //asdasd
         btLeitura.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
